@@ -10,4 +10,4 @@ elif(light == "green"):
     
     
 else:
-    print("light is broken")           
+    print(:light is broken")
