@@ -7,7 +7,6 @@ elif(light == "yellow"):
     print("redy")
 elif(light == "green"):
     print("go")
-    
-    
-else:
-    print(:light is broken")
+
+
+else("light is broken")
